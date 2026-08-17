@@ -1,0 +1,1 @@
+SUPPORTED={"images":["jpg","png","webp","bmp"],"media":["mp3","wav","mp4","gif"],"docs":["pdf","docx","txt"]}
